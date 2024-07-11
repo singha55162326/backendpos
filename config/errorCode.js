@@ -1,0 +1,10 @@
+module.exports = {
+    SUCCESS:'00000',
+    ERROR:'99999',
+    DATA_NULL: '10005',
+    DATA_INVALID:'10004',
+    INPUT_NULL:'10001',
+    ERROR_BCRYPT:'10003',
+    ERROR_FOUND:'10002',
+    TOKEN_VALIID:'10006'
+}
